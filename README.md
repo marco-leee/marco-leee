@@ -3,7 +3,7 @@
 
 ## 💻 Technical Knowledge
 
-### Currently exploring
+### 🏃🏻‍♂️ Currently exploring
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,rust,flutter)](https://skillicons.dev)
 
@@ -19,6 +19,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,gitlab,github,git,jenkins,terraform)](https://skillicons.dev)
 
-### Task Management / Communication
+### 👨🏻‍💼 Task Management / Communication
 
 [![My Skills](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/marco-leee/count.svg" />
+</p>
