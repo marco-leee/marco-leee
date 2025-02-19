@@ -1,16 +1,24 @@
-## Hi there 👋
+## 📖 About Me
 
-<!--
-**marco-leee/marco-leee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 Technical Knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,rust,flutter)](https://skillicons.dev)
+
+### 📚 Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,cassandra)](https://skillicons.dev)
+
+### 🙊 Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,go,kotlin,javascript,typescript)](https://skillicons.dev)
+
+### 📦 DevOps / CI/CD 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,gitlab,github,git,jenkins,terraform)](https://skillicons.dev)
+
+### Task Management / Communication
+
+[![My Skills](https://skillicons.dev/icons?i=notion,discord)](https://skillicons.dev)
